@@ -1,3 +1,5 @@
 node_modules/
 .DS_Store
 .vercel
+/la
+#curl -L https://github.com/Laboratoria/gym/tarball/DEV015 | tar --wildcards -xz --strip-components=1 "*/sessions/*" "*/exercises/*"
